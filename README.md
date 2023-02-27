@@ -7,3 +7,9 @@ Topics in this course include mathematical principles and programming implementa
 <br/>Statitical learning(bayesian statistics, density estimation, EM algorithm, kernel methods, Markov models etc.);
 <br/>Feature selection(information theory);
 <br/>Neural networks.
+<br/><br/>
+Homeworks Summary:
+<br/>Homework 1: Image pixel compression with k-means and k-medoids.
+<br/>Homework 2: Text clustering with EM algorithm.
+<br/>Homework 3: Recommendation system with matrix factorization evaluated by RMSE.
+<br/>Homework 4: Stock prediction with Hidden Markov Model.
